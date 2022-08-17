@@ -87,6 +87,9 @@ body {
   margin-top: 20px;
   z-index: 20;
 }
+  .small .hamburger:hover{
+  cursor: pointer;
+}
   .small .menu .slider li a:hover{
     color:#ff6a95;
   }
